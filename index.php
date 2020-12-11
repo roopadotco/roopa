@@ -7,5 +7,12 @@
 <body>
     welcome to roopa.co!
     anjayyyaniii
+    <h1>Welcome to Rupeng</h1>
+    <ul>
+      <li>Anjing</li>
+      <li>Kucing</li>
+      <li>Babi</li>
+      <li>Monyet</li>
+    </ul>
 </body>
 </html>
