@@ -6,6 +6,11 @@
 </head>
 <body>
     <h1>Welcome to Rupeng</h1>
-    <p>ASdadsad</p>
+    <ul>
+      <li>Anjing</li>
+      <li>Kucing</li>
+      <li>Babi</li>
+      <li>Monyet</li>
+    </ul>
 </body>
 </html>
